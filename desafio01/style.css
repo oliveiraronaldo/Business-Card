@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+}
+#content {
+  margin: 40px;
+  height: 564px;
+  width: 846px;
+  background-image: url(/imagens/7e6a32abd9099fa74b9b894106dca7c4.jpg);
+  background-size: cover;
+  font-family: "Comfortaa", Arial, sans-serif;
+}
+#title {
+  padding-top: 100px;
+  padding-left: 200px;
+  padding-right: 370px;
+}
+h1 {
+  text-shadow: 1px 1px #dddddd;
+  margin-bottom: 0;
+}
+h2 {
+  margin-top: 0;
+  text-align: center;
+  font-size: 0.8rem;
+}
+#list {
+  padding-top: 80px;
+  font-size: 1.5rem;
+  padding-left: 440px;
+  line-height: 40px;
+}
+#insta {
+  list-style-image: url(/imagens/instagram32px.png);
+}
+#git {
+  list-style-image: url(/imagens/github-logo.png);
+}
+#whats {
+  list-style-image: url(/imagens/whatsapp.png);
+}
