@@ -35,15 +35,12 @@ h2 {
 }
 .insta {
   list-style-image: url(/imagens/instagram32px.png);
-  /* Icons made by https://www.freepik.com */
 }
 .git {
   list-style-image: url(/imagens/github-logo.png);
-  /* Icons made by <a href="https://www.flaticon.com/authors/dave-gandy */
 }
 .whats {
   list-style-image: url(/imagens/whatsapp.png);
-  /* Icons made by https://www.flaticon.com/authors/pixel-perfect */
 }
 a {
   text-decoration: none;
